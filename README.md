@@ -1,2 +1,2 @@
-# github-command-practice
-Repositório criado para praticar comandos do Github
+# Repositório exclusivo para pratica de comandos Github
+Repositório criado para praticar comandos
